@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    padding: 6px;
+    display: flex;
+    justify-content: flex-end;
+    gap: 5px;
+}
